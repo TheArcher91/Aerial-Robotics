@@ -6,4 +6,4 @@ Assignment-0 ___ plot.py (Clone the repo and make sure required python packages 
   python plot.py
 ```
 
-![Plot X vs Y for y = cos(x)exp(x) ]((https://github.com/TheArcher91/Aerial-Robotics/blob/main/Autonome_Intelligente_Systeme/Mobile_Robotics_Assignment_0/Plot-1.png))
+![Plot X vs Y for y = cos(x)exp(x) ](https://github.com/TheArcher91/Aerial-Robotics/blob/main/Autonome_Intelligente_Systeme/Mobile_Robotics_Assignment_0/Plot-1.png?raw=true)
